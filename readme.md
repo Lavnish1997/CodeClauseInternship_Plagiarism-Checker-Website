@@ -1,5 +1,7 @@
 # Plagiarism Checker Website
 
+![Screenshot (258)](https://github.com/Lavnish1997/CodeClauseInternship_Plagiarism-Checker-Website/assets/128681474/cdc61f45-9835-4514-b35f-4df54471ce50)
+
 This is a simple Plagiarism Checker Website that allows users to check the similarity between a given text and a document uploaded by the user.
 
 ## Table of Contents
