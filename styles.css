@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+textarea,
+input[type="file"],
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#result {
+    margin-top: 20px;
+    display: none;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#similarity {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+/* Responsive Styles */
+
+@media (max-width: 600px) {
+    form {
+        margin-top: 10px;
+    }
+}
