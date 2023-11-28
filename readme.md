@@ -47,4 +47,7 @@ No installation is required for this web application. Simply open the `index.htm
    1.git clone https://github.com/Lavnish1997/CodeClauseInternship_Plagiarism-Checker-Website.git
    
    2.Run index file in your browser.
+   
+2.For see that website please click on below link:-
+https://lavnish1997.github.io/CodeClauseInternship_Plagiarism-Checker-Website/
 
